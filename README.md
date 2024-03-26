@@ -39,6 +39,6 @@ In this, I have used the Air Quality dataset. This is a dataset that reports on 
 
 ### Results
 <div style="float:left">
-<div style="float:left"><img src="https://github.com/jyoti0225/Air-Pollution-Forecasting/blob/master/output_graph.png" />
+<div style="float:left"><img src="https://github.com/MrigeshKaushik/pollution-detection-for-commuter/blob/main/output_graph.png" />
 </div>
 <br />
